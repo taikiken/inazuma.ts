@@ -1,4 +1,4 @@
-inazumatv.ts
+Inazuma.ts
 ============
 
 fork inazumatv.util.js

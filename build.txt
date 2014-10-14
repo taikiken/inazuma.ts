@@ -1,0 +1,1 @@
+./src/Inazuma.ts --target ES5 --outDir ./build
